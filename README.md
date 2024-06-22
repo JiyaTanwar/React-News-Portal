@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Go to src folder
+Open the 5 folders
+> Navbar.jsx
+> News.jsx
+> NewsUpdate.jsx
+> App.jsx
+> index.js
+Then you can get the desired output...
